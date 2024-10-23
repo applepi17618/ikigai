@@ -1,9 +1,1 @@
-<DOCTYPE! html>
-<html>
-<head>
-<title>helloworld</title>
-</head>
-<body>
-Hello,world!!!
-</body>
-</html>
+i'm learning how to use git
